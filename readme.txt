@@ -1,5 +1,7 @@
 ***README***
 
+CHANGED BY JUSTIN SCHOENFELD on October 27th, 2015.
+
 SysTimeTool
 Created by Jay Ovalle, Colton Spahmer, and Andrew Smith.
 Rochester Institute of Technology, Spring 2013-14
